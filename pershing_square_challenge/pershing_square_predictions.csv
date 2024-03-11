@@ -24,3 +24,8 @@ competition_year,ticker,stock_name,base_3,bull_3,base_4,bull_4,base_5,bull_5,bas
 2023,LAD,Lithia Motors,487,,,,,,,,,,220,,"April 30th, 2023"
 2023,NSP,Insperity,,,201,,,,,,,,120,,"April 30th, 2023"
 2023,PLNT,Planet Fitness,,,163,,,,,,,,78.65,,"April 30th, 2023"
+2019,^GSPC,S&P 500 2019,,,,,600,,,,,,,,"April 30th, 2019"
+2020,^GSPC,S&P 500 2020,,,,,600,,,,,,,,"April 30th, 2020"
+2021,^GSPC,S&P 500 2021,,,,,600,,,,,,,,"April 14th, 2021"
+2022,^GSPC,S&P 500 2022,,,,,600,,,,,,,,"April 26th, 2022"
+2023,^GSPC,S&P 500 2023,,,,,600,,,,,,,,"April 30th, 2023"
